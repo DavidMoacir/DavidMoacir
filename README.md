@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DavidMoacir/DavidMoacir/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DavidMoacir/DavidMoacir/output/Cobrinha.yml" alt="Snake animation" />
 
 ###
